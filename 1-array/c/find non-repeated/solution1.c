@@ -13,6 +13,7 @@ int main()
     int a[] = {1, 2, 2, 1, 3, 4, 3};
     printf("%d",FindUnRepeated(a,7));
     getch();
+    return 0;
 }
 
     
